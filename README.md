@@ -54,7 +54,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-#### 🧪 ML/AI  
+#### 🧪 ML/AI & NLP
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![LoRA](https://img.shields.io/badge/-LoRA-9C27B0?style=flat)
@@ -69,11 +69,15 @@
 ---
 
 ### 🚀 Currently Exploring
+🧬 Generative AI + fine-tuning LLMs for multilingual NLP
+🧠 Retrieval-Augmented Generation (RAG) for document intelligence
+🔁 Continual learning + incremental model updates
+🧪 DeepInversion for synthetic data generation
+🔍 Human-in-the-loop evaluation & explainability
 
-- 🧬 Generative AI and fine-tuning LLMs  
-- 🔁 Continual Learning & Incremental Training  
-- 🧪 Synthetic data generation with DeepInversion  
-- 🧠 Human-centered model evaluation + explainability
+---
+
+💡 Focus Areas: NLP · Generative AI · Human-AI Collaboration · ML Systems
 
 ---
 
