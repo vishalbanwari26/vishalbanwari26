@@ -8,77 +8,81 @@
   📍 Kaiserslautern, Germany · 🎓 MSc in Computer Science @ <a href="https://rptu.de/">RPTU</a>  
 </p>
 
----
 
-### 🧠 What I Do
 
-- Build elegant tools for Machine Learning  
-- Engineer software that scales & speaks  
-- Blend code with creativity  
+### 💼 Experience
 
----
+#### 🧪 Research Assistant — [DFKI](https://www.dfki.de/en)
+*Kaiserslautern, Germany · Apr 2024 – Present*  
+- 🧰 Developed Python GUI tools for human-in-the-loop ML workflows  
+- 🧠 Created novel loss functions with real-time feedback signals  
+- 📊 Built visualizations for model confidence & embedding insights
 
-### 💼 Currently @ DFKI
+#### 🔧 Senior Engineer — Rugged Monitoring  
+*Hyderabad, India · Jun 2021 – Feb 2023*  
+- 🌐 Full-stack product development using Angular + .NET Core  
+- 📈 Designed and delivered industrial monitoring dashboards  
+- 🧩 Led backend architecture for smart data analytics features
 
-- 🛠 Human-in-the-loop ML tools (Tkinter + Python)  
-- 🎯 Real-time feedback-driven loss functions  
-- 📊 Visualization for high-dimensional model insights  
-
----
-
-### 💻 Previously
-
-**Rugged Monitoring (Hyderabad)**  
-*Full-stack apps, industrial analytics, Angular & .NET Core*
-
-**Qualitrol (Ahmedabad)**  
-*Desktop software, WPF + C++/C#, ML for electrical systems*
+#### 🖥 Software Engineer — Qualitrol  
+*Ahmedabad, India · Feb 2017 – May 2021*  
+- 🖼 Built WPF desktop apps using C++/C#  
+- ⚡ Integrated ML modules for energy sector systems  
+- 🔍 Enhanced UI/UX for electrical data visualization tools
 
 ---
 
 ### 📦 Featured Projects
 
-- 🔤 [**FineTuningLLMforLanguageTranslation**](#) *(Private)*  
-  German-French LLM fine-tuning with PEFT (LoRA) + Gradio deployment. BLEU & BERTScore evaluation.
-
-- 🎮 [**CLAD**](https://github.com/vishalbanwari26/CLAD)  
-  Continual learning video anomaly detection on ATARI RGB frames.
-
-- 🎨 [**STYLIZED_RAG**](https://github.com/vishalbanwari26/STYLIZED_RAG)  
-  RAG pipeline with modularity, stylistic control & enhanced retrieval.
-
-- 🍽 [**MULTI-AGENT-MEAL-PLANNER**](https://github.com/vishalbanwari26/MULTI-AGENT-MEAL-PLANNER)  
-  Multi-agent system for personalized meal planning (nutrition, preferences, cost).
-
-- 🧠 [**RESUME-MATCHER-EMBEDDINGS**](https://github.com/vishalbanwari26/RESUME-MATCHER-EMBEDDINGS)  
-  Streamlit app matching resumes to jobs using `sentence-transformers`.
-
-- 📚 [**RAG-BOT-STUDY**](https://github.com/vishalbanwari26/RAG-BOT-STUDY)  
-  Interactive RAG over academic PDFs via Streamlit.
+| Project | Description |
+|--------|-------------|
+| 🔤 **FineTuningLLMforLanguageTranslation** *(Private)* | Fine-tuning Bloomz-3b for German–French with LoRA + BLEU/BERTScore eval |
+| 🎮 [**CLAD**](https://github.com/vishalbanwari26/CLAD) | Continual learning video anomaly detection (ATARI RGB) |
+| 🎨 [**STYLIZED_RAG**](https://github.com/vishalbanwari26/STYLIZED_RAG) | RAG with style transfer, modularity & control |
+| 🍽 [**MULTI-AGENT-MEAL-PLANNER**](https://github.com/vishalbanwari26/MULTI-AGENT-MEAL-PLANNER) | Meal planning with multi-agent preferences & budgets |
+| 🧠 [**RESUME-MATCHER-EMBEDDINGS**](https://github.com/vishalbanwari26/RESUME-MATCHER-EMBEDDINGS) | Resume-to-job matcher using `sentence-transformers` |
+| 📚 [**RAG-BOT-STUDY**](https://github.com/vishalbanwari26/RAG-BOT-STUDY) | Streamlit app for academic paper QA with RAG |
 
 ---
 
-### 🛠 Stack
 
-`Python` · `C++` · `C#` · `Angular` · `Flask` · `PyTorch` · `TensorFlow`  
-`WPF` · `Django` · `Matplotlib` · `Seaborn` · `LoRA` · `LLMs`
+### 🔥 GitHub Stats
 
----
-
-### 📸 Currently Exploring
-
-- Generative AI  
-- Continual Learning  
-- Synthetic image generation  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-### 🌿 After Hours
+### 🧠 Tech Stack
+
+#### 💬 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+#### 🧪 ML/AI  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LoRA](https://img.shields.io/badge/-LoRA-9C27B0?style=flat)
+![LLMs](https://img.shields.io/badge/-LLMs-4CAF50?style=flat)
+
+#### 🌐 Web & Tools  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🌿 Outside the Code
 
 Guitar 🎸 · Table Tennis 🏓 · Reading 📚 · Running 🏃 · Gym 💪 · Hiking ⛰️
 
 ---
 
 <p align="center">
-  <a href="mailto:vishalbanwari26@outlook.com">Let's connect →</a>
+  <a href="mailto:vishalbanwari26@outlook.com">📫 Reach out</a>
 </p>
