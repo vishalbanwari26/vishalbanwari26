@@ -20,9 +20,9 @@
 
 ### 💼 Currently @ DFKI
 
-- 🛠 Building human-in-the-loop ML tools with Python  
-- 🎯 Designing custom loss functions with real-time feedback  
-- 📊 Visualizing high-dimensional data intuitively  
+- 🛠 Human-in-the-loop ML tools (Tkinter + Python)  
+- 🎯 Real-time feedback-driven loss functions  
+- 📊 Visualization for high-dimensional model insights  
 
 ---
 
@@ -32,7 +32,29 @@
 *Full-stack apps, industrial analytics, Angular & .NET Core*
 
 **Qualitrol (Ahmedabad)**  
-*Desktop software, WPF + C++/C#, machine learning for electrical systems*
+*Desktop software, WPF + C++/C#, ML for electrical systems*
+
+---
+
+### 📦 Featured Projects
+
+- 🔤 [**FineTuningLLMforLanguageTranslation**](#) *(Private)*  
+  German-French LLM fine-tuning with PEFT (LoRA) + Gradio deployment. BLEU & BERTScore evaluation.
+
+- 🎮 [**CLAD**](https://github.com/vishalbanwari26/CLAD)  
+  Continual learning video anomaly detection on ATARI RGB frames.
+
+- 🎨 [**STYLIZED_RAG**](https://github.com/vishalbanwari26/STYLIZED_RAG)  
+  RAG pipeline with modularity, stylistic control & enhanced retrieval.
+
+- 🍽 [**MULTI-AGENT-MEAL-PLANNER**](https://github.com/vishalbanwari26/MULTI-AGENT-MEAL-PLANNER)  
+  Multi-agent system for personalized meal planning (nutrition, preferences, cost).
+
+- 🧠 [**RESUME-MATCHER-EMBEDDINGS**](https://github.com/vishalbanwari26/RESUME-MATCHER-EMBEDDINGS)  
+  Streamlit app matching resumes to jobs using `sentence-transformers`.
+
+- 📚 [**RAG-BOT-STUDY**](https://github.com/vishalbanwari26/RAG-BOT-STUDY)  
+  Interactive RAG over academic PDFs via Streamlit.
 
 ---
 
