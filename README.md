@@ -68,6 +68,16 @@
 
 ---
 
+### 🚀 Currently Exploring
+
+- 🧬 Generative AI and fine-tuning LLMs  
+- 🔁 Continual Learning & Incremental Training  
+- 🧪 Synthetic data generation with DeepInversion  
+- 🧠 Human-centered model evaluation + explainability
+
+---
+
+
 ### 🌿 Outside the Code
 
 Guitar 🎸 · Table Tennis 🏓 · Reading 📚 · Running 🏃 · Gym 💪 · Hiking ⛰️
