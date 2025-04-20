@@ -12,7 +12,7 @@
 
 ### 💼 Experience
 
-#### 🧪 Research Assistant — [DFKI](https://www.dfki.de/en)
+#### 🧪 Research Assistant — [DFKI](https://www.dfki.de/en/web)
 *Kaiserslautern, Germany · Apr 2024 – Present*  
 - 🧰 Developed Python GUI tools for human-in-the-loop ML workflows  
 - 🧠 Created novel loss functions with real-time feedback signals  
