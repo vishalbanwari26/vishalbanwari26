@@ -80,7 +80,7 @@
 
 ### 🌿 Outside the Code
 
-Guitar 🎸 · Table Tennis 🏓 · Reading 📚 · Running 🏃 · Gym 💪 · Hiking ⛰️
+Guitar 🎸 · Table Tennis 🏓 · Reading 📚 · Running 🏃 · Gym 💪 · Hiking ⛰️ · Chess ♟️
 
 ---
 
