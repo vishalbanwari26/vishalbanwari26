@@ -38,6 +38,7 @@
 |--------|-------------|
 | 🔤 **FineTuningLLMforLanguageTranslation** *(Private)* | Fine-tuning Bloomz-3b for German–French with LoRA + BLEU/BERTScore eval |
 | 🎮 [**CLAD**](https://github.com/vishalbanwari26/CLAD) | Continual learning video anomaly detection (ATARI RGB) |
+| 🧠 **SyntheticImagesVIADeepInversion** *(Private)* | Designed several deep learning techniques leveraging DeepInversion to generate synthetic distilled images for data-free model training and knowledge distillation. |
 | 🎨 [**STYLIZED_RAG**](https://github.com/vishalbanwari26/STYLIZED_RAG) | RAG with style transfer, modularity & control |
 | 🍽 [**MULTI-AGENT-MEAL-PLANNER**](https://github.com/vishalbanwari26/MULTI-AGENT-MEAL-PLANNER) | Meal planning with multi-agent preferences & budgets |
 | 🧠 [**RESUME-MATCHER-EMBEDDINGS**](https://github.com/vishalbanwari26/RESUME-MATCHER-EMBEDDINGS) | Resume-to-job matcher using `sentence-transformers` |
