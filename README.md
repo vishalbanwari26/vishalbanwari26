@@ -43,6 +43,7 @@
 | 🍽 [**MULTI-AGENT-MEAL-PLANNER**](https://github.com/vishalbanwari26/MULTI-AGENT-MEAL-PLANNER) | Meal planning with multi-agent preferences & budgets |
 | 🧠 [**RESUME-MATCHER-EMBEDDINGS**](https://github.com/vishalbanwari26/RESUME-MATCHER-EMBEDDINGS) | Resume-to-job matcher using `sentence-transformers` |
 | 📚 [**RAG-BOT-STUDY**](https://github.com/vishalbanwari26/RAG-BOT-STUDY) | Streamlit app for academic paper QA with RAG |
+| 📚 [**Toxic-Comment-Classification**](https://github.com/vishalbanwari26/Toxic-Comment-Classification) | Toxic Comment Classification with BERT(Kaggle Competition) |
 
 ---
 
