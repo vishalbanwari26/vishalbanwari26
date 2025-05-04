@@ -45,7 +45,7 @@
 | 📚 [**RAG-BOT-STUDY**](https://github.com/vishalbanwari26/RAG-BOT-STUDY) | Streamlit app for academic paper QA with RAG |
 | 📚 [**Toxic-Comment-Classification**](https://github.com/vishalbanwari26/Toxic-Comment-Classification) | Toxic Comment Classification with BERT(Kaggle Competition) |
 | 📚 [**CryptoCurrency-Forecasting**](https://github.com/vishalbanwari26/CryptoCurrency-Forecasting) | Short-term return forecasting for cryptocurrency assets) |
-
+| 📚 [**CreditCard-Fraud-Detection**]([https://github.com/vishalbanwari26/CryptoCurrency-Forecasting] | Hybrid ML credit card fraud detection ) |
 ---
 
 
