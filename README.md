@@ -50,8 +50,6 @@
 | [**CreditCard-Fraud-Detection**](https://github.com/vishalbanwari26/CryptoCurrency-Forecasting) | Hybrid ML credit card fraud detection |
 ---
 
----
-
 ### 📄 Publications
 
 **Human in the Latent Loop (HILL): Interactively Guiding Model Training Through Human Intuition**  
