@@ -50,6 +50,22 @@
 | [**CreditCard-Fraud-Detection**](https://github.com/vishalbanwari26/CryptoCurrency-Forecasting) | Hybrid ML credit card fraud detection |
 ---
 
+---
+
+### 📄 Publications
+
+**Human in the Latent Loop (HILL): Interactively Guiding Model Training Through Human Intuition**  
+*HHAI · May 2025*  
+[arXiv:2505.06325](https://www.arxiv.org/pdf/2505.06325)
+
+Latent space representations are critical for understanding and improving the behavior of machine learning models, yet they often remain obscure and intricate. In this work, we present **HILL**, an interactive framework allowing users to incorporate human intuition into the model training loop by reshaping latent space representations.
+
+The modifications are infused into training via a novel **distillation-inspired approach**, treating the user's reshaped latent space as a teacher. This enables the model to converge more effectively, overcome inefficiencies, and reveal insights to the user. A user study showed that **human-guided latent shaping improves performance**, while also surfacing the importance of guarding against user bias.
+
+> 🧠 **Highlights:** Interactive latent guidance · Distillation from user-shaped space · Improved generalization under human influence  
+
+---
+
 
 ### 🧠 Tech Stack
 
