@@ -37,10 +37,12 @@
 | Project | Description |
 |--------|-------------|
 | 🔤 [**FineTuningLLMforLanguageTranslation**](https://github.com/vishalbanwari26/FineTuningLLMforLanguageTranslation) | Resource-constrained Fine-tuning Bloomz-3b for German–French with LoRA + BLEU/BERTScore eval |
-| 🎮 [**CLAD**] *(Private)* | Continual learning video anomaly detection (ATARI RGB) |
+| 🎮 [**CLAD**] (https://github.com/vishalbanwari26/CLAD)| Continual learning video anomaly detection (ATARI RGB) |
 | 🧠 **SyntheticImagesVIADeepInversion** *(Private)* | Designed several deep learning techniques leveraging DeepInversion to generate synthetic distilled images for data-free model training and knowledge distillation. |
 | 🎨 [**STYLIZED_RAG**](https://github.com/vishalbanwari26/STYLIZED_RAG) | RAG with style transfer, modularity & control |
 | 🍽 [**MULTI-AGENT-MEAL-PLANNER**](https://github.com/vishalbanwari26/MULTI-AGENT-MEAL-PLANNER) | Meal planning with multi-agent preferences & budgets |
+| 🍽 [**Driver Activity Recognition**](https://github.com/vishalbanwari26/Drive-Act-Activity-Recognition) | Deep learning to recognize driver activities in video |
+| 📚 [**StateFarm Driver Distraction Detection**](https://github.com/vishalbanwari26/StateFarm-Driver-Distraction-Detection) | Driver Distraction Detection on images |
 | 🧠 [**RESUME-MATCHER-EMBEDDINGS**](https://github.com/vishalbanwari26/RESUME-MATCHER-EMBEDDINGS) | Resume-to-job matcher using `sentence-transformers` |
 | 📚 [**RAG-BOT-STUDY**](https://github.com/vishalbanwari26/RAG-BOT-STUDY) | Streamlit app for academic paper QA with RAG |
 | 📚 [**Toxic-Comment-Classification**](https://github.com/vishalbanwari26/Toxic-Comment-Classification) | Toxic Comment Classification with BERT(Kaggle Competition) |
