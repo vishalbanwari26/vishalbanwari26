@@ -17,7 +17,7 @@
 - Developed Python GUI tools for human-in-the-loop ML workflows  
 - Created novel loss functions with real-time feedback signals  
 - Built visualizations for model confidence & embedding insights
-- LLMs and AI Agents Energy efficiency benchmarking
+- LLMs and AI Agents Energy consumption and efficiency benchmarking
 
 #### 🔧 Senior Engineer — Rugged Monitoring  
 *Hyderabad, India · Jun 2021 – Feb 2023*  
