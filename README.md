@@ -18,7 +18,7 @@
 ### 💼 Experience
 
 #### 🤖 AI Research Intern — [ABB](https://www.abb.com/)
-*Kaiserslautern, Germany · Jan 2026 – Present*
+*Kaiserslautern, Germany · Jan 2026 – June 2026*
 - Building root cause analysis systems for logs using LLMs
 - Developing RAG pipelines and Streamlit interfaces for log intelligence
 - Applying LLM-based reasoning to industrial fault diagnosis workflows
