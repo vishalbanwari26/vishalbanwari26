@@ -15,6 +15,18 @@
 
 ---
 
+### 🧠 Flagship Project — [mnemos](https://github.com/vishalbanwari26/mnemos)
+
+A persistent memory framework for LLM agents: episodic + semantic memory, retrieval that adapts its own strategy per user (procedural memory), and a reflection engine that merges, decays, and forgets stale facts with a full audit trail — across three interchangeable storage backends (Postgres/pgvector, Qdrant, Neo4j), a FastAPI backend, a React dashboard, and a benchmark that measures recall over simulated time instead of just demoing well.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishalbanwari26/mnemos/master/docs/screenshots/demo.gif" width="700" alt="mnemos live demo: cross-session recall, retrieval trace, reflection log">
+</p>
+
+> 🧬 **Highlights:** Adaptive retrieval that learns per user · Self-pruning reflection & forgetting · 3 swappable storage backends, same test suite · Honest benchmark, not just a demo
+
+---
+
 ### 💼 Experience
 
 #### 🤖 AI Research Intern — [ABB](https://www.abb.com/)
@@ -80,6 +92,8 @@ Presents **HILL**, an interactive framework allowing users to incorporate human 
 
 | Project | Description |
 |--------|-------------|
+| [**mnemos**](https://github.com/vishalbanwari26/mnemos) | Persistent memory framework for LLM agents — adaptive retrieval, self-pruning reflection, 3 swappable storage backends, FastAPI + React dashboard |
+| [**Cortex**](https://github.com/vishalbanwari26/cortex) | Cognitive-loop orchestrator for embodied agents — VLM perception, multi-step planning, modular skill registry, real-time replanning on failure |
 | [**FineTuningLLMforLanguageTranslation**](https://github.com/vishalbanwari26/FineTuningLLMforLanguageTranslation) | Resource-constrained fine-tuning of Bloomz-3b for German–French with LoRA + BLEU/BERTScore eval |
 | [**CLAD**](https://github.com/vishalbanwari26/CLAD) | Continual learning video anomaly detection (ATARI RGB) |
 | **SyntheticImagesVIADeepInversion** *(Private)* | DeepInversion techniques for synthetic distilled images — data-free model training & knowledge distillation |
