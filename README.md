@@ -20,7 +20,7 @@
 Anomaly detection plus agentic root-cause analysis on industrial / grid (OT) telemetry. A streaming detector flags an anomaly, then an agent investigates it — gathering evidence from the telemetry window, from equipment and protocol documentation, and from memory of prior incidents on the same asset — and produces a root-cause report where every claim is cited. It runs entirely on **public data** (the HAI ICS dataset): an inspectable rebuild of the kind of anomaly-detection and root-cause work that is otherwise stuck behind a confidentiality clause. It reuses [**Cortex**](https://github.com/vishalbanwari26/cortex) for orchestration and [**mnemos**](https://github.com/vishalbanwari26/mnemos) for per-asset memory — three repositories, one system.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishalbanwari26/grid-copilot/master/assets/demo-live-rca.gif" width="700" alt="Grid Copilot: live agentic root-cause analysis streaming an anomaly, its tool calls, and a cited incident report">
+  <img src="https://raw.githubusercontent.com/vishalbanwari26/grid-copilot/master/assets/dashboard.png" width="760" alt="Grid Copilot dashboard: live telemetry with the faulted signals highlighted, the streaming investigation timeline with tool calls, the cited incident report matching ground truth, and the HAI detector benchmark">
 </p>
 
 > 🛰️ **Highlights:** Streaming detection + agentic RCA · A multivariate autoencoder lifts detection F1 from 0.57 to 0.95 at full recall on real ICS attacks · Cited root-cause reports scored by an LLM-as-judge · React dashboard over a live FastAPI + SSE backend
